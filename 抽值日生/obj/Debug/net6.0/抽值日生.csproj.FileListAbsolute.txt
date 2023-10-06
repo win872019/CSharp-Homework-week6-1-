@@ -1,0 +1,15 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\bin\Debug\net6.0\抽值日生.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\bin\Debug\net6.0\抽值日生.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\bin\Debug\net6.0\抽值日生.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\bin\Debug\net6.0\抽值日生.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\bin\Debug\net6.0\抽值日生.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\refint\抽值日生.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\抽值日生.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\抽值日生\obj\Debug\net6.0\ref\抽值日生.dll

@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\bin\Debug\net6.0\讀取文字檔&抽取午餐店家.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\bin\Debug\net6.0\讀取文字檔&抽取午餐店家.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\bin\Debug\net6.0\讀取文字檔&抽取午餐店家.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\bin\Debug\net6.0\讀取文字檔&抽取午餐店家.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\bin\Debug\net6.0\讀取文字檔&抽取午餐店家.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\refint\讀取文字檔&抽取午餐店家.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\讀取文字檔&抽取午餐店家.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\讀取文字檔&抽取午餐店家\obj\Debug\net6.0\ref\讀取文字檔&抽取午餐店家.dll
